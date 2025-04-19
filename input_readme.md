@@ -34,8 +34,6 @@ local result = exports['exost_ui']:Input(
   50                   -- 🔢 Nombre de caractères max
 )
 
-if result then
-  print("Résultat :", result)
-else
-  print("Saisie annulée")
-end
+---
+
+Après, vous pourrez utiliser "result" dans votre script.
