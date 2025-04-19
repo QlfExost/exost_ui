@@ -16,3 +16,7 @@ if result then
 else
     print("❌ Code incorrect")
 end
+
+---
+
+[Aperçu](img/img_keypad.png)
