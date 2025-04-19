@@ -33,7 +33,7 @@ local result = exports['exost_ui']:Input(
   "mid",               -- 🔠 Type d’input : small | mid | large | numbers
   50                   -- 🔢 Nombre de caractères max
 )
-
+```
 ---
 
 Après, vous pourrez utiliser la variable définie dans votre script.
