@@ -17,3 +17,7 @@ if result then
 else
     print("❌ Utilisateur a annulé")
 end
+
+---
+
+[Aperçu](img/img_prompt.png)
