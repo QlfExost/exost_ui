@@ -24,3 +24,7 @@ if index then
 else
     print("❌ Aucun choix effectué")
 end
+
+---
+
+[Aperçu](img/img_selector.png)
