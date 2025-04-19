@@ -36,4 +36,4 @@ local result = exports['exost_ui']:Input(
 
 ---
 
-Après, vous pourrez utiliser "result" dans votre script.
+Après, vous pourrez utiliser la variable définie dans votre script.
